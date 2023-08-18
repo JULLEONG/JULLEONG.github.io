@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "LEE JUNSEOK"
-  avatar           : ![1679120346274](https://github.com/JULLEONG/JULLEONG/assets/117628817/c2be0faa-c83a-4a4f-9773-6aa32e0c0d3d)
+  avatar           : "/assets/avatar.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
