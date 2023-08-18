@@ -109,7 +109,7 @@ author:
   avatar           : "/assets/avatar.jpg"
   bio              : "**Data Beginner**"<br>매일 공부하고 기록하는 습
   location         : "South Korea"
-  email            : "enk9778@naver.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
